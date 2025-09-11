@@ -2,7 +2,7 @@
 import socket
 import json
 IP = socket.gethostbyname(socket.gethostname())
-RESULTADO_IP = "172.17.0.2"
+RESULTADO_IP = "172.17.0.4"
 RESULTADO_PORT = 5001
 print(IP)
 

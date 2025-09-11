@@ -1,6 +1,6 @@
 import socket
 
-RECOLECTOR_IP = "172.17.0.4"
+RECOLECTOR_IP = "172.17.0.3"
 PORT = 9000
 FORMAT = "utf-8"
 
